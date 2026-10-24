@@ -1,5 +1,5 @@
-# Presidium releases
+# Senacula releases
 
-Installers and the update feed for the Presidium desktop app. Each release carries `Presidium-Setup-<version>.exe`, its `SHA256SUMS.txt` and `latest.yml` for the in-app updater.
+Installers and the update feed for the Senacula desktop app, and the one place to report issues for Senacula and its studios. Each release carries `Senacula-Setup-<version>.exe`, its `SHA256SUMS.txt` and `latest.yml` for the in-app updater.
 
-Source and issues: https://github.com/presidiumdev/presidium
+Source: https://github.com/senacula/senacula
